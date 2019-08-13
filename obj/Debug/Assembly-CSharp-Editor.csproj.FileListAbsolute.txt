@@ -1,0 +1,121 @@
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\nunit.framework.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEngine.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEngine.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.Advertisements.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\nunit.framework.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.Analytics.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.Purchasing.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\SamrtGlove\Documents\VirtuAlter\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Users\SamrtGlove\Documents\VirtuAlter\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\SamrtGlove\Documents\VirtuAlter\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.AppleTV.Extensions.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.LinuxStandalone.Extensions.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.OSXStandalone.Extensions.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.SamsungTV.Extensions.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.Timeline.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.Tizen.Extensions.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.WSA.Extensions.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.Advertisements.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.Timeline.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.Analytics.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.Purchasing.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Elias\Documents\Unity Projects\VirtuAlter\obj\Debug\Assembly-CSharp-Editor.pdb
